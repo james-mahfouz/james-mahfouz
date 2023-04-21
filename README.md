@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **james@gmail.com**
+- 📫 How to reach me **jamesmahfouz0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
